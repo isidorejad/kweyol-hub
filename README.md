@@ -145,8 +145,8 @@ Kwéyòl Hub is open-source software licensed under the [MIT license](LICENSE).
 
 Have questions or suggestions? Reach out to our team:
 
-- 🌐 Website: [https://kweyolhub.com](https://kweyolhub.online)
-- 📧 Email: [support@kweyolhub.online](mailto:support@kweyolhub.online)
+- 🌐 Website: [https://www.kweyol-hub.online](https://www.kweyol-hub.online)
+- 📧 Email: [support@kweyolhub.online](mailto:support@kweyol-hub.online)
 - 🐦 Twitter: [@solutions_53058](https://twitter.com/solutions_53058)
 - 📘 Facebook: [Kwéyòl Hub](https://facebook.com/kweyolhub)
 - 📸 Instagram: [@jtech_solutions2024](https://instagram.com/jtech_solutions2024)
